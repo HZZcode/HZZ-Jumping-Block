@@ -1,0 +1,7 @@
+[1.1.1] Released in 2021.11.14
+Add Background Music;
+Add Buttons;
+Add Begin & End Interface;
+[1.2.1] Released in 2021.11.27
+Better End Interface;
+Add scores and distance;
